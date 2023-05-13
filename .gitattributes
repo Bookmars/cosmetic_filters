@@ -1,2 +1,48 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+[AdBlockPlus 2.0]
+!
+! Title: Cosmetic filters for private use
+! Expires: 365 days 
+!
+! Version: 2023.05.13
+!
+!
+
+! *********************************************************************************************************************************/
+! youtube annoyances: bypass ad blocker prompt
+  
+  youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
+  youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
+  youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
+  youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
+! ================================================================================================================================*/
+
+
+
+! *********************************************************************************************************************************/
+! social media annoyances
+
+  twitter.com##div#layers div[data-testid=\"sheetDialog\"]:upward(div[role=\"group\"][tabindex=\"0\"])
+  twitter.com##html:style(overflow: auto !important;)
+! ================================================================================================================================*/
+
+
+
+! *********************************************************************************************************************************/
+! some tweaks
+
+  unsplash.com##img[srcset^="https://plus.unsplash.com"]:upward(figure):remove()
+! ================================================================================================================================*/
+
+
+  
+! *********************************************************************************************************************************/
+! all media  
+
+  record.pt##.bloco_comentarios
+  cmjornal.pt,record.pt##.barra_cofina
+  abola.pt##.hidden-xs.comentarios.row
+! --------------------------------------------------------------------------------------------------------------------------------*/
+  sapo.pt##.loading.article-comments
+! --------------------------------------------------------------------------------------------------------------------------------*/
+  juxtapoz.com##.loader
+! ================================================================================================================================*/
