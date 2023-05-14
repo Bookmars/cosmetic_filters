@@ -16,31 +16,6 @@
 ! ================================================================================================================================*/
 
 
-! *********************************************************************************************************************************/
-! youtube annoyances
-  www.youtube.com###related
-  www.youtube.com##ytd-browse[page-subtype="home"]
-  www.youtube.com##.ytp-ce-element
-  www.youtube.com##.ytp-endscreen-content
-  www.youtube.com###description #info a[href^="/hashtag/"]
-  www.youtube.com###super-title
-  www.youtube.com##.super-title
-  m.youtube.com##.standalone-collection-badge a[href^="/hashtag/"]
-  m.youtube.com##ytm-video-description-header-renderer button-view-model a[href^="/hashtag/"]
-  www.youtube.com###actions.ytd-watch-metadata ytd-button-renderer .yt-spec-button-shape-next .yt-spec-button-shape-next--button-text-content
-  www.youtube.com###actions.ytd-watch-metadata ytd-button-renderer .yt-spec-button-shape-next__icon:style(margin-right: -6px !important; margin-left: -6px !important;)
-  m.youtube.com##ytm-slim-video-action-bar-renderer button [class*="button-text-content"]:not(:has-text(/\d/))
-  m.youtube.com##ytm-slim-video-action-bar-renderer ytm-button-renderer div[class$="icon"]:style(margin-right: -6px !important; margin-left: -6px !important;)
-  www.youtube.com###description .ytd-watch-metadata #items:has(.ytd-video-description-music-section-renderer)
-  m.youtube.com##ytm-video-description-music-section-renderer
-  www.youtube.com###chat:remove()
-  youtube.com##+js(aeld, /^pan(start|move|end)$/)
-  www.youtube.  www.youtube.com##ytd-search ytd-item-section-renderer ytd-shelf-renderer:style(border: 2px dashed red !important)
-  www.youtube.com##ytd-search ytd-item-section-renderer ytd-horizontal-card-list-renderer:style(border: 2px dashed red !important)
-
-
-
-
 
 ! *********************************************************************************************************************************/
 ! some tweaks
