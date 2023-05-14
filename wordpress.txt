@@ -22,5 +22,9 @@
   @@*/wp-content/plugins/jetgridbuilder/*$script,domain=blogvisaodemercado.pt
   @@*/wp-content/plugins/wp-user-avatar/*$script,domain=blogvisaodemercado.pt
 ! --------------------------------------------------------------------------------------------------------------------------------*/
+  @@*/wp-content/plugins/ghstwrtr/*$script,domain=wptavern.com
+  @@*/wp-content/plugins/gutenberg/*$script,domain=wptavern.com
+  @@*/wp-content/plugins/jetpack/*$script,domain=wptavern.com
+! --------------------------------------------------------------------------------------------------------------------------------*/
   @@*/wp-content/plugins/pmc-plugins/*$script,domain=rollingstone.com
 ! ================================================================================================================================*/
