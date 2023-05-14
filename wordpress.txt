@@ -30,5 +30,11 @@
   @@*/wp-content/plugins/the-plus-visual-composer-addons/*$script,domain=nakid.online
   @@*/wp-content/plugins/wp-post-author/*$script,domain=nakid.online
 ! --------------------------------------------------------------------------------------------------------------------------------*/  
+  @@*/wp-content/plugins/akismet/*$script,domain=windowsreport.com
+  @@*/wp-content/plugins/ewww-image-optimizer/*$script,domain=windowsreport.com
+  @@*/wp-content/plugins/reflectormedia-utilities/*$script,domain=windowsreport.com
+  @@*/wp-content/plugins/windowsreport-companion/*$script,domain=windowsreport.com
+  @@*/wp-content/plugins/wordlift/*$script,domain=windowsreport.com
+! --------------------------------------------------------------------------------------------------------------------------------*/  
   @@*/wp-content/plugins/pmc-plugins/*$script,domain=rollingstone.com
 ! ================================================================================================================================*/
