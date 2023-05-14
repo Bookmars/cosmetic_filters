@@ -1,0 +1,21 @@
+[AdBlockPlus 2.0]
+!
+! Title: Collected annoyances
+! Expires: 2 days 
+!
+! Version: 2023.05.13
+!
+!
+
+! *********************************************************************************************************************************/
+! collected annoyances
+  
+  ||*/census/button-render$xhr 
+  ||*/census/form-render$xhr 
+  ||*/census/overlay$xhr
+  ||*/cookienotice.js$script
+  ||*/eu_cookie_compliance/*$script
+  ||*/getCookieBase$xhr
+  ||*/getCookieExtend$xhr
+  ||*/popup-overlay/*$xhr
+! ================================================================================================================================*/
