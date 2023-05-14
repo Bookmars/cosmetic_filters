@@ -12,9 +12,15 @@
 
   */wp-content/plugins/*$script
 ! --------------------------------------------------------------------------------------------------------------------------------*/
-  @@*/wp-content/plugins/jet-menu/*$script,domain=blogvisaodemercado.pt
-  @@*/wp-content/plugins/jet-elements/*$script,domain=blogvisaodemercado.pt
+  @@*/wp-content/plugins/elementor/*$script,domain=blogvisaodemercado.pt
   @@*/wp-content/plugins/jet-blocks/*$script,domain=blogvisaodemercado.pt
+  @@*/wp-content/plugins/jet-blog/*$script,domain=blogvisaodemercado.pt
+  @@*/wp-content/plugins/jet-elements/*$script,domain=blogvisaodemercado.pt
+  @@*/wp-content/plugins/jet-menu/*$script,domain=blogvisaodemercado.pt
+  @@*/wp-content/plugins/jet-tabs/*$script,domain=blogvisaodemercado.pt
+  @@*/wp-content/plugins/jet-tricks/*$script,domain=blogvisaodemercado.pt
+  @@*/wp-content/plugins/jetgridbuilder/*$script,domain=blogvisaodemercado.pt
+  @@*/wp-content/plugins/wp-user-avatar/*$script,domain=blogvisaodemercado.pt
 ! --------------------------------------------------------------------------------------------------------------------------------*/
   @@*/wp-content/plugins/pmc-plugins/*$script,domain=rollingstone.com
 ! ================================================================================================================================*/
