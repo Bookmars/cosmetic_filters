@@ -12,5 +12,9 @@
 
   */wp-content/plugins/*$script
 ! --------------------------------------------------------------------------------------------------------------------------------*/
+  @@*/wp-content/plugins/jet-menu/*$script,domain=blogvisaodemercado.pt
+  @@*/wp-content/plugins/jet-elements/*$script,domain=blogvisaodemercado.pt
+  @@*/wp-content/plugins/jet-blocks/*$script,domain=blogvisaodemercado.pt
+! --------------------------------------------------------------------------------------------------------------------------------*/
   @@*/wp-content/plugins/pmc-plugins/*$script,domain=rollingstone.com
 ! ================================================================================================================================*/
