@@ -1,44 +1,11 @@
 [AdBlockPlus 2.0]
 !
-! Title: Annoyances and Cosmetics for Private Use
+! Title: Cosmetics for Private Use
 ! Expires: 2 days 
 !
 ! Version: 2023.05.15
 !
 !
-
-! *********************************************************************************************************************************/
-! wordpress whitelist
-
-  */wp-content/plugins/*$script
-! --------------------------------------------------------------------------------------------------------------------------------*/
-  @@*/wp-content/plugins/gutenberg/*$script
-! --------------------------------------------------------------------------------------------------------------------------------*/
-  @@*/wp-content/plugins/elementor/*$script,domain=blogvisaodemercado.pt
-  @@*/wp-content/plugins/jet-blocks/*$script,domain=blogvisaodemercado.pt
-  @@*/wp-content/plugins/jet-blog/*$script,domain=blogvisaodemercado.pt
-  @@*/wp-content/plugins/jet-elements/*$script,domain=blogvisaodemercado.pt
-  @@*/wp-content/plugins/jet-menu/*$script,domain=blogvisaodemercado.pt
-  @@*/wp-content/plugins/jet-tabs/*$script,domain=blogvisaodemercado.pt
-  @@*/wp-content/plugins/jet-tricks/*$script,domain=blogvisaodemercado.pt
-  @@*/wp-content/plugins/jetgridbuilder/*$script,domain=blogvisaodemercado.pt
-  @@*/wp-content/plugins/wp-user-avatar/*$script,domain=blogvisaodemercado.pt
-! --------------------------------------------------------------------------------------------------------------------------------*/
-  @@*/wp-content/plugins/ghstwrtr/*$script,domain=wptavern.com
-  @@*/wp-content/plugins/jetpack/*$script,domain=wptavern.com
-! --------------------------------------------------------------------------------------------------------------------------------*/
-  @@*/wp-content/plugins/the-plus-visual-composer-addons/*$script,domain=nakid.online
-  @@*/wp-content/plugins/wp-post-author/*$script,domain=nakid.online
-! --------------------------------------------------------------------------------------------------------------------------------*/  
-  @@*/wp-content/plugins/akismet/*$script,domain=windowsreport.com
-  @@*/wp-content/plugins/ewww-image-optimizer/*$script,domain=windowsreport.com
-  @@*/wp-content/plugins/reflectormedia-utilities/*$script,domain=windowsreport.com
-  @@*/wp-content/plugins/windowsreport-companion/*$script,domain=windowsreport.com
-  @@*/wp-content/plugins/wordlift/*$script,domain=windowsreport.com
-! --------------------------------------------------------------------------------------------------------------------------------*/  
-  @@*/wp-content/plugins/pmc-plugins/*$script,domain=rollingstone.com
-! ================================================================================================================================*/
-
 
 
 ! *********************************************************************************************************************************/
@@ -70,15 +37,4 @@
 
 
 
-! *********************************************************************************************************************************/
-! collected annoyances
-  
-  ||*/census/button-render$xhr 
-  ||*/census/form-render$xhr 
-  ||*/census/overlay$xhr
-  ||*/cookienotice.js$script
-  ||*/eu_cookie_compliance/*$script
-  ||*/getCookieBase$xhr
-  ||*/getCookieExtend$xhr
-  ||*/popup-overlay/*$xhr
-! ================================================================================================================================*/
+
