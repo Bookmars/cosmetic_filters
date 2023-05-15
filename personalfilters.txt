@@ -1,6 +1,6 @@
 [AdBlockPlus 2.0]
 !
-! Title: Annoyances and cosmetics for private use
+! Title: Annoyances and Cosmetics for Private Use
 ! Expires: 2 days 
 !
 ! Version: 2023.05.15
