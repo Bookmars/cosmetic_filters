@@ -1,6 +1,6 @@
 [AdBlockPlus 2.0]
 !
-! Title: Collected annoyances and cosmetic filters for private use
+! Title: Annoyances and cosmetics for private use
 ! Expires: 2 days 
 !
 ! Version: 2023.05.15
