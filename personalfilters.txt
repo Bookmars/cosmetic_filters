@@ -50,7 +50,7 @@
   ||*/eu_cookie_compliance/*$script
   ||*/getCookieBase$xhr
   ||*/getCookieExtend$xhr
-  ||*/onesignal/*/OneSignalModule.js$script
+  ||*/onesignal/*$script
   ||*/popup-overlay/*$xhr
 ! ================================================================================================================================*/
 
