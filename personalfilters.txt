@@ -42,12 +42,15 @@
   ||*/census/button-render$xhr 
   ||*/census/form-render$xhr 
   ||*/census/overlay$xhr
+  ||*/common/js/analytics.js$script
+  ||*/common/rgpd/*$xhr
   ||*/common/scripts/fingerprint*.min.js$script
   ||*/common/scripts/gigya/*$script
   ||*/cookienotice.js$script
   ||*/eu_cookie_compliance/*$script
   ||*/getCookieBase$xhr
   ||*/getCookieExtend$xhr
+  ||*/onesignal/*/OneSignalModule.js$script
   ||*/popup-overlay/*$xhr
 ! ================================================================================================================================*/
 
