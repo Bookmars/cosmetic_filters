@@ -5,17 +5,16 @@
 !
 ! Version: 2023.05.13
 !
-!
-
-! *********************************************************************************************************************************/
-! collected annoyances
-  
-  ||*/census/button-render$xhr 
-  ||*/census/form-render$xhr 
-  ||*/census/overlay$xhr
-  ||*/cookienotice.js$script
-  ||*/eu_cookie_compliance/*$script
-  ||*/getCookieBase$xhr
-  ||*/getCookieExtend$xhr
-  ||*/popup-overlay/*$xhr
-! ================================================================================================================================*/
+! 
+sapo.pt##.loading.article-comments
+sapo.pt###billboard
+sapo.pt##.block-pub.block
+sapo.pt##.top-pub
+youtube.com###comments
+youtube.com###secondary
+abola.pt##.hidden-xs.comentarios.row
+cmjornal.pt,record.pt##.barra_cofina
+record.pt##.bloco_comentarios
+publico.pt##.ad-slot--in-content.ad-slot
+radio.pt##.epiNFS
+radio.pt##.jocRqO
