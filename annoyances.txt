@@ -18,3 +18,10 @@ record.pt##.bloco_comentarios
 publico.pt##.ad-slot--in-content.ad-slot
 radio.pt##.epiNFS
 radio.pt##.jocRqO
+discord.com##div[class|=upsellVisible]
+discord.com##div[class|="channelNotice"]
+discord.com##[class*="linkButton"]:has(h2[class*="offerBadge"])
+discord.com##[class*=colorPremiumGradient]
+discord.com##[aria-label="Add Super Reaction"]
+discord.com##[aria-label="Send a gift"]
+discord.com##[class*="colorDefault-"][class*="notice-"]
