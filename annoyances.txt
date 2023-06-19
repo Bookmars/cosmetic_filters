@@ -18,6 +18,8 @@ record.pt##.bloco_comentarios
 publico.pt##.ad-slot--in-content.ad-slot
 radio.pt##.epiNFS
 radio.pt##.jocRqO
+waxpoetics.com##.popin-inner
+waxpoetics.com##.dancefloor-popin
 osphilia.co##.sqs-cookie-banner-v2
 discord.com##div[class|=upsellVisible]
 discord.com##div[class|="channelNotice"]
