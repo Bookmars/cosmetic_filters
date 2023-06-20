@@ -21,6 +21,7 @@ radio.pt##.epiNFS
 radio.pt##.jocRqO
 waxpoetics.com##.popin-inner
 waxpoetics.com##.dancefloor-popin
+www.juxtapoz.com##.winStuff
 osphilia.co##.sqs-cookie-banner-v2
 discord.com##div[class|=upsellVisible]
 discord.com##div[class|="channelNotice"]
