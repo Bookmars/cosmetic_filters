@@ -10,7 +10,7 @@ sapo.pt##.loading.article-comments
 sapo.pt###billboard
 sapo.pt##.block-pub.block
 sapo.pt##.top-pub
-##.bsu-placeholder-ctn
+sapo.pt##.bsu-placeholder-ctn
 youtube.com###comments
 youtube.com###secondary
 abola.pt##.hidden-xs.comentarios.row
